@@ -1,5 +1,5 @@
 <?php
-namespace Pepijnolivier\Bittrex;
+namespace adman9000\Bittrex;
 
 class BittrexManager
 {
